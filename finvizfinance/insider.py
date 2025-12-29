@@ -8,7 +8,7 @@
 import pandas as pd
 from finvizfinance.util import web_scrap, number_covert
 
-INSIDER_URL = "https://finviz.com/insidertrading.ashx"
+INSIDER_URL = "https://finviz.com/insidertrading"
 
 
 class Insider:
